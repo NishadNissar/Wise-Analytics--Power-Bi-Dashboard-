@@ -7,7 +7,7 @@ Copy
 Edit
 WiseAnalytics-PowerBI-Project/
 ├── Dashboard Screenshot.png
-├── WiseAnalytics_Dashboard.pbix
+├── ecommerce.pbix
 └── README.md
 🧠 About the Project
 Wise Analytics Dashboard is an interactive and dynamic Power BI report designed to uncover trends and patterns in e-commerce customer behavior. The goal is to help businesses make data-driven decisions by visualizing:
