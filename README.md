@@ -6,7 +6,7 @@ This project is a user behavior and sales analytics dashboard built using Power 
 Copy
 Edit
 WiseAnalytics-PowerBI-Project/
-├── Dashboard Screenshot.png
+├── wise analytics.PNG
 ├── ecommerce.pbix
 └── README.md
 🧠 About the Project
